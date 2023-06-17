@@ -39,7 +39,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [ Optical-Character-Recognition-OCR-with-Neural-Networks](https://github.com/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
+| [ Optical-Character-Recognition-OCR-with-Neural-Networks](https://github.com/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) [OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+
 
 </td>
 </div>
