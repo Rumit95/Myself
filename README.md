@@ -1,11 +1,20 @@
-<p align="center">
-  <a href="https://github.com/Rumit95">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rumit+Pathare;Machine+Learning+Engineer;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
-  </a>
-</p>
-
-
-
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p align="center">
+      <a href="https://github.com/Rumit95">
+        <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rumit+Pathare;Machine+Learning+Engineer;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
+      </a>
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <h3 align="center">&#127911; Currently Coding & Listening to:</h3>
+    <p align="center">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=czf4yyaawjvajfxs0qpu2plk6&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=08e600&bar_color_cover=false" alt="Spotify GitHub Profile">
+      </a>
+    </p>
+  </div>
+</div>
 <div align="center">
   <span style="margin-right: 10px;">
     <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
