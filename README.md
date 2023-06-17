@@ -20,11 +20,10 @@
   </a>
 </div>
 
-<br/>
-
-<a href="https://github.com/drkostas">
+<div align="center">
+  <a href="https://github.com/Rumit95">
     <img src="https://github-stats-alpha.vercel.app/api?username=Rumit95">
-</a>
+  </a>
+</div>
 
-</p>
 
