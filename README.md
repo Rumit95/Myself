@@ -26,4 +26,9 @@
   </a>
 </div>
 
+</p>
+
+* 📖 Pursuing Dreams in Data Science & Machine Learning.
+
+* 💡 Open to collaborating on projects and innovative ideas. 
 
