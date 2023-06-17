@@ -53,7 +53,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [one-stop-shop](https://github.com/Rumit95/one-stop-shop) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)|
-| [Air Pollution Analysis India before & after COVID 2022](https://public.tableau.com/app/profile/rumit6351/viz/WeatherAnalysisIndia/PollutionAnalysis) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=tableau)|
+| [Air Pollution Analysis India before & after COVID Lockdown](https://public.tableau.com/app/profile/rumit6351/viz/WeatherAnalysisIndia/PollutionAnalysis) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Tableau](https://img.shields.io/badge/Tableau-black?style=flat-square&logo=tableau)|
 </table>
 </td>
 </div>
