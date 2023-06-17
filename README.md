@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" width="65">
   </a>
 </div>
-
+<br/>
 <div align="center">
   <a href="https://github.com/Rumit95">
     <img src="https://github-stats-alpha.vercel.app/api?username=Rumit95">
