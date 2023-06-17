@@ -62,10 +62,10 @@
 
 ### :bar_chart: My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=blueberry) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=algolia) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=blueberry) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=blueberry)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=algolia)
 
 
 <br>
