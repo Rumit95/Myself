@@ -74,5 +74,8 @@
 
 ### &#127911; Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=czf4yyaawjvajfxs0qpu2plk6&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=08e600&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=czf4yyaawjvajfxs0qpu2plk6&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=08e600&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 
