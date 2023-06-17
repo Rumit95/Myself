@@ -38,7 +38,7 @@
 <tr><td>
 
 |Title | Stars | Technologies|
-|--|--|--|
+|------------------------------------------------|------------------------------------------------|------------------------------------------------|
 | [ Optical-Character-Recognition-OCR-with-Neural-Networks](https://github.com/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks?style=flat-square&labelColor=black"/> |  ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 | [Package_Sorting_System](https://github.com/Rumit95/Package_Sorting_System) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Package_Sorting_System?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)|
 | [P2P-Loans](https://github.com/Rumit95/P2P-Loans) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/P2P-Loans?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=Scipy)|
