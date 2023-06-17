@@ -31,4 +31,7 @@
 * 📖 Pursuing Dreams in Data Science & Machine Learning.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
-
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><td>
