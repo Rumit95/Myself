@@ -60,7 +60,7 @@
 </td>
 </div>
 
-### <img src="https://github.com/alexandresanlim/Badges4-README.md-Profile#-analytics-" /> My Github Stats
+### :Analytics: My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
 
