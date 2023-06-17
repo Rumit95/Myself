@@ -62,7 +62,9 @@
 
 ### :bar_chart: My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=city_lights) 
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=city_lights" alt="Profile Details">
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=city_lights) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights)
