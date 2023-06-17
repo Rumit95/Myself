@@ -6,7 +6,7 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 0.5; max-width: 300px;">
     <h3 align="center">&#127911; Currently Coding & Listening to:</h3>
     <p align="center">
       <a href="https://github.com/kittinan/spotify-github-profile">
@@ -15,6 +15,7 @@
     </p>
   </div>
 </div>
+
 <div align="center">
   <span style="margin-right: 10px;">
     <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
