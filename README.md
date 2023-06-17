@@ -60,7 +60,7 @@
 </td>
 </div>
 
-### :Analytics: My Github Stats
+### :bar_chart: My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
 
