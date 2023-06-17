@@ -8,7 +8,7 @@
   <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
   </a>  
-  <a href="[Linkedin.com/Rumit Pathare](https://www.linkedin.com/in/rumitpathare/)">
+  <a href="https://www.linkedin.com/in/rumitpathare/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
   <a href="mailto:georgiou.kostas94@gmail.com">
