@@ -32,7 +32,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 ### 🖥️ Open-Source Projects
-<div align="center" style="width: 150%;">
+<div align="center" style="max-width: 80%;"">
 <table>
 <tr><th>Machine Learning </th></tr>
 <tr><td>
