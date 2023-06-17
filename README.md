@@ -62,10 +62,10 @@
 
 ### :bar_chart: My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit27&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit27&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit27&theme=dracula)
 
 
 <br>
