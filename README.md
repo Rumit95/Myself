@@ -52,7 +52,7 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [one-stop-shop](https://github.com/Rumit95/one-stop-shop) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)|
+| [one-stop-shop](https://github.com/Rumit95/one-stop-shop) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)|
 </table>
 </td>
 </div>
