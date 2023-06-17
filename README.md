@@ -32,6 +32,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 ### 🖥️ Open-Source Projects
+<div align="center" style="width: 80%;">
 <table>
 <tr><th>Machine Learning </th></tr>
 <tr><td>
@@ -50,3 +51,4 @@
 | [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 
 </td>
+</div>
