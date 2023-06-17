@@ -34,7 +34,7 @@
 ### 🖥️ Open-Source Projects
 <div align="center" style="max-width: 80%;"">
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Machine Learning </th></tr>
 <tr><td>
 
 |Title | Stars | Technologies|
