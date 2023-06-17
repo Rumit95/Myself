@@ -64,12 +64,10 @@
 
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=city_lights" alt="Profile Details">
-   <div style="margin-right: 10px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=city_lights" alt="Repos per Language">
-    </div>
-    <div style="margin-left: 10px;">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights" alt="Most Commit Language">
-    </div>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=city_lights) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=city_lights) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights)
 </div>
    
 
