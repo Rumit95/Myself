@@ -4,6 +4,9 @@
   </a>
 </p>
 
+### &#127911; Currently Coding & Listening to:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=czf4yyaawjvajfxs0qpu2plk6&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=08e600&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="center">
   <span style="margin-right: 10px;">
     <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
