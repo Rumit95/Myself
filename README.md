@@ -6,13 +6,14 @@
 
 <div align="center">
   <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" width="80">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" width="80" style="margin-right: 10px;">
   </a>  
   <a href="https://www.linkedin.com/in/rumitpathare/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" width="80">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" width="80" style="margin-right: 10px;">
   </a>
   <a href="mailto:rumit.pthr@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" width="65">
   </a>
 </div>
+
 
