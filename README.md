@@ -30,7 +30,8 @@
 
 * 📖 Pursuing Dreams in Data Science & Machine Learning.
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+* 💡 Open to collaborating on projects and innovative ideas.
+  
 ### 🖥️ Open-Source Projects
 <div align="center" style="max-width: 80%;"">
 <table>
@@ -59,8 +60,8 @@
 </td>
 </div>
 <br>
-### 🖥️ Summary
-<br>
+### 🖥️ Open-Source Projects
+
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
