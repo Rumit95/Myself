@@ -71,10 +71,6 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights" alt="Most Commit Language">
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=city_lights) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights)
-
-
 <br>
 Currently Coding & Listening to:
 
