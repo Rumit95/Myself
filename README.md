@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <a href="[https://gkos.tech/Resume.pdf](https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf)">
+  <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
   </a>  
   <a href="https://www.linkedin.com/in/rumitpathare/">
