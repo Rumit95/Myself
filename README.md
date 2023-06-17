@@ -61,8 +61,6 @@
 </div>
 <br>
 
-###🖥️ Open-Source Projects
-
 My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
