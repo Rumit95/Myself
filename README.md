@@ -1,12 +1,12 @@
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-  <div style="flex: 1;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+  <div style="flex: 1; max-width: 500px;">
     <p align="center">
       <a href="https://github.com/Rumit95">
         <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Rumit+Pathare;Machine+Learning+Engineer;AI+%7C+Computer+Vision+%7C+NLP" alt="Typing SVG" />
       </a>
     </p>
   </div>
-  <div style="flex: 0.5; max-width: 300px;">
+  <div style="flex: 1; max-width: 300px;">
     <h3 align="center">&#127911; Currently Coding & Listening to:</h3>
     <p align="center">
       <a href="https://github.com/kittinan/spotify-github-profile">
