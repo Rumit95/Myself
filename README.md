@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/Rumit95">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Rumit95">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Rumit95" style="filter: brightness(0.7);">
   </a>
 </div>
 
