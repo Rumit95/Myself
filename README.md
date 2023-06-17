@@ -59,7 +59,7 @@
 </td>
 </div>
 <br>
-<summary>📈 Stats</summary>
+### 🖥️ Summary
 <br>
 My Github Stats
 
