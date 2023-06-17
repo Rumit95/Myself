@@ -62,7 +62,7 @@
 
 ### :bar_chart: My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&theme=default&cc=22272e&tc=37BCF6&ic=fff&bc=0000;) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rumit95&cc=22272e&tc=37BCF6&ic=fff&bc=0000;) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rumit95&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=dracula)
