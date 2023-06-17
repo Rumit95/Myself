@@ -20,4 +20,11 @@
   </a>
 </div>
 
+<br/>
+
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Rumit95">
+</a>
+
+</p>
 
