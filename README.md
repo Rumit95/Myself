@@ -12,6 +12,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" width="120">
   </a>
   <a href="mailto:rumit.pthr@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" width="110">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" width="100">
   </a>
 </div>
