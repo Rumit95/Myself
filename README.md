@@ -46,4 +46,13 @@
 | [Animals-Recognization](https://github.com/Rumit95/Animals-Recognization) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Animals-Recognization?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
 </td>
 </table>
+
+<tr><th>Misc Projects </th></tr>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [one-stop-shop](https://github.com/Rumit95/one-stop-shop) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/one-stop-shop?style=flat-square&labelColor=black"/> | ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)|
+
+</td>
 </div>
