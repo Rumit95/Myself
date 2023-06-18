@@ -73,7 +73,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rumit95&theme=city_lights" alt="Most Commit Language">
 </div>
 
-### &#127911; Currently Coding & Listening to:
+### &#127911; Currently Coding & Listening
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
