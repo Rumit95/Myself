@@ -40,9 +40,11 @@
 <tr><th>Machine Learning </th></tr>
 <tr><td>
 
+
 |Title | Stars | Technologies |
 |--|--|--|
 | [ Optical-Character-Recognition-OCR-with-Neural-Networks](https://github.com/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Optical-Character-Recognition-OCR-with-Neural-Networks?style=flat-square&labelColor=black"/> |  ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+| [ Optical-Character-Recognition-OCR-with-Neural-Networks](https://github.com/Rumit95/Semantic-Segmentation-of-Image) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Semantic-Segmentation-of-Image?style=flat-square&labelColor=black"/> |  ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![PIL](https://img.shields.io/badge/PIL-black?style=flat-square&logo=PIL)|
 | [Package_Sorting_System](https://github.com/Rumit95/Package_Sorting_System) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Package_Sorting_System?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)|
 | [P2P-Loans](https://github.com/Rumit95/P2P-Loans) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/P2P-Loans?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=Scipy)|
 | [Recommend-system-for-Books](https://github.com/Rumit95/Recommend-system-for-Books) | <img alt="Stars" src="https://img.shields.io/github/stars/Rumit95/Recommend-system-for-Books?style=flat-square&labelColor=black"/> | ![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy) ![Scipy](https://img.shields.io/badge/Scipy-black?style=flat-square&logo=Scipy)|
