@@ -8,7 +8,7 @@
 
 <div align="center">
   <span style="margin-right: 10px;">
-    <a href="https://github.com/Rumit95/Myself/blob/main/Rumit%20Pathare%20(Machine%20Learning%20Developer).pdf">
+    <a href="https://drive.google.com/file/d/1sqEH5R-c2B-yx6D_bWW4Z5sK16bmKY4v/view?usp=sharing">
       <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" width="80">
     </a>
   </span>
